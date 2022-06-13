@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sergio21
-- 👀 I’m interested in Illustration and animation, tea..
-- 🌱 I’m currently learning Front end web & Arduino.
-- 💞️ I’m looking to collaborate on interesting proyects
-- 📫 How to reach me hello@robotflavor.com
+- 👀 I’m interested in Illustration and animation, drink tea...
+- 🌱 I’m currently learning Front end web & Arduino (and other things borings 🥱).
+- 💞️ I’m looking to collaborate on interesting proyects or something creative
+- 📫 How to reach me hello@robotflavor.com see you soon
 
 <!---
 sergio21/sergio21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
