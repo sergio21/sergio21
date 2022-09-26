@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sergio21
 - 👀 I’m interested in Illustration and animation, drink tea...
-- 🌱 I’m currently learning Front end web & Arduino (and other things borings 🥱).
+- 🌱 I’m currently learning Front end web & Arduino (and other things much borings 🥱).
 - 💞️ I’m looking to collaborate on interesting proyects or something creative
 - 📫 How to reach me hello@robotflavor.com see you soon
 
