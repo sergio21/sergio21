@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sergio21
-- 👀 I’m interested in Illustration and animation, drink tea...
-- 🌱 I’m currently learning Front end web & Arduino (and other things much borings 🥱).
-- 💞️ I’m looking to collaborate on interesting proyects or something creative
-- 📫 How to reach me hello@robotflavor.com see you soon
+Hola, gracias por leer esto, la verdad es que no se que poner aquí asi que simplemente te dare las gracias y me presentare brevemente:
+Soy Sergio Vilar. 
+
+Fin
+
+:P
 
 <!---
 sergio21/sergio21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
