@@ -33,6 +33,8 @@ Diseñador gráfico en proceso de convertirme en desarrolador Front End
 
 🔨 LinkedIn <a href="https:www.linkedin.com/in/sergiovilar21/">sergiovilar21</a>
 
+
+📨 Correo <a href="mailto:hola@robotflavor.es">hola robot!</a>
 <!---
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" /> 
 
