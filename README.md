@@ -1,20 +1,20 @@
-<h1>Sergio Vilar</h1> 
 
 ----------------------
 
-Diseñador gráfico en proceso de convertirme en desarrollador Front End :)
-
+¡Hola! Soy Sergio Vilar, un diseñador gráfico en una emocionante misión para convertirme en desarrollador front-end y experto en UI/UX
 
 ❤️ = 🫀
 
-
-
 -----
+
+Algunas cosas que conozco
+
 ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/C%23-%23512BD4?style=flat&logo=csharp&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SQL-%23003B57?logo=sqlite&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=flat&logo=git&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Acrobat%20DC-%23EC1C24?style=flat&logo=adobeacrobatreader&logoColor=white)
@@ -31,16 +31,18 @@ Diseñador gráfico en proceso de convertirme en desarrollador Front End :)
 ![Static Badge](https://img.shields.io/badge/SublimeText-%23FF9800?style=flat&logo=sublimetext&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=flat&logo=arduino&logoColor=white)
 
-🌟 Web Website: [robotflavor.es](https://robotflavor.es/) 
+
+🌟 Web -  [robotflavor.es](https://robotflavor.es/) 
 
 
-🔨 LinkedIn [sergiovilar21](https://linkedin.com/in/sergiovilar21/) 
+🔨 LinkedIn -  [sergiovilar21](https://linkedin.com/in/sergiovilar21/) 
 
 
+📨 Correo -  <a href="mailto:hola@robotflavor.es">¡hola!</a>
 
-📨 Correo <a href="mailto:hola@robotflavor.es">hola!</a>
-
+¡Gracias por pasar! 
 <!---
+<h1>Sergio Vilar</h1> 
 
 sergio21/sergio21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
