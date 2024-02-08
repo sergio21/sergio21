@@ -2,7 +2,7 @@
 
 ----------------------
 
-Diseñador gráfico en proceso de convertirme en desarrolador Front End :)
+Diseñador gráfico en proceso de convertirme en desarrollador Front End :)
 
 
 ❤️ = 🫀
