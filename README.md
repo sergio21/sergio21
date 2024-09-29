@@ -32,13 +32,11 @@ Algunas cosas que conozco
 ![Static Badge](https://img.shields.io/badge/Arduino-%2300878F?style=flat&logo=arduino&logoColor=white)
 
 
-🌟 Web -  [robotflavor.es](https://robotflavor.es/) 
-
 
 🔨 LinkedIn -  [sergiovilar21](https://linkedin.com/in/sergiovilar21/) 
 
 
-📨 Correo -  <a href="mailto:hola@robotflavor.es">¡hola!</a>
+📨 Correo -  <a href="mailto:sergio.vilar@hotmail.com">¡hola!</a>
 
 ¡Gracias por pasar! 
 <!---
